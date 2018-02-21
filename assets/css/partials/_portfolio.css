@@ -1,0 +1,15 @@
+.portfolio-nav ul.nav li a {
+  background: transparent none repeat scroll 0 0;
+  border-bottom: 2px none transparent;
+  color: #8c8c8c;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.portfolio-nav ul.nav li a:hover {
+  color: #e53935;
+}
+
+.portfolio-nav ul.nav li.active a {
+  border-bottom: 2px solid #e53935;
+}

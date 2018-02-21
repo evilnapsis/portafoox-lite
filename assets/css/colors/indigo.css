@@ -1,0 +1,165 @@
+/*You can add your won color also */
+a {
+  color: #3F51B5;
+}
+
+a:hover {
+  color: #283593;
+}
+
+.section-titile-bg {
+  color: #3F51B5;
+}
+
+.mea-section-quote blockquote {
+  border-left-color: #3F51B5;
+}
+
+.btn-common {
+  background: #3F51B5;
+}
+
+.btn-common:hover, .btn-common:focus {
+  background: #283593 !important;
+}
+
+.btn-round {
+  background: #3F51B5 !important;
+}
+
+.btn-round:hover {
+  background: #283593 !important;
+}
+
+/* ScrollToTop */
+a.back-to-top i {
+  background-color: #3F51B5;
+}
+
+#main-slide .carousel-control i {
+  background: #3F51B5;
+}
+
+.slicknav_btn{
+  background: #3F51B5;
+  border-color: #3F51B5;
+}
+.slicknav_menu .slicknav_btn:hover .slicknav_icon-bar{
+  background: #3F51B5;
+}
+.slicknav_nav li > ul > li > a:hover, .slicknav_nav li > ul > li > a .active{
+  border-left-color: #3F51B5;
+}
+.slicknav_nav .slicknav_item .active{
+  color: #3F51B5;
+}
+li.sub-menu .sub-menu-panel a:hover, li.sub-menu .sub-menu-panel a:focus, li.sub-menu .sub-menu-panel a.active {
+  border-left: 3px solid #3F51B5;
+}
+
+#nav-main li.active a.nav-link {
+  border-bottom: 3px solid #3F51B5 !important;
+  color: #3F51B5;
+}
+
+#nav-main li.active a.nav-link:hover {
+  color: rgba(63, 81, 181, 0.7);
+}
+
+.work-counter-widget i {
+  color: #3F51B5;
+}
+
+.about-widget i {
+  color: #3F51B5;
+}
+
+.about-widget:hover i {
+  background: #3F51B5;
+}
+
+.single-blog-post .post-meta a:hover {
+  color: #3F51B5;
+}
+
+.contact-widget-section .single-contact-widget i {
+  color: #3F51B5;
+}
+
+#contactForm .form-control {
+  color: #3F51B5;
+}
+
+.footer-contact-widget ul li a .fa {
+  background: #3F51B5;
+}
+
+.portfolio-nav ul.nav li a:hover {
+  color: #3F51B5;
+}
+
+.portfolio-nav ul.nav li a.active {
+  border-bottom: 2px solid #3F51B5;
+  color: #3F51B5;
+}
+
+.single-service-widget i {
+  color: #3F51B5;
+}
+
+#testimonial-carousel .owl-pagination .owl-page.active span {
+  background: #3F51B5;
+}
+
+.form-submit button.btn-common.disabled {
+  background: rgba(63, 81, 181, 0.7) !important;
+  cursor: not-allowed;
+}
+
+.owl-carousel .owl-controls .owl-page.active span {
+  border: none;
+  background: #3F51B5 !important;
+  opacity: 1;
+}
+
+.mea-tab-default ul.nav.nav-tabs li.active a {
+  color: #3F51B5;
+  border-bottom: 3px solid #3F51B5;
+}
+
+.mea-default-accordion .panel-default .panel-heading a {
+  background-color: #3F51B5;
+}
+
+.icon-round, .icon-box {
+  background: #3F51B5;
+}
+
+.icon-common {
+  color: #3F51B5;
+}
+
+.price span {
+  color: #3F51B5;
+}
+
+.pricing-button a.btn-pricing {
+  background-color: #3F51B5;
+}
+
+.mea-error-section h1 {
+  color: #3F51B5;
+}
+
+.comment-box .form-control, .comment-box textarea {
+  font-weight: 500;
+  color: #3F51B5;
+}
+
+.find-widget {
+  padding: 10px 0;
+}
+
+.find-widget i {
+  background: #3F51B5;
+}

@@ -1,0 +1,17 @@
+Autor: evilnapsis
+Sitio web: http://evilnapsis.com/
+
+// Instalacion de PortaFoox Lite en XAMPP en Windows
+
+1.- Copiar la carpeta del sistema a la direccion c:\xampp\htdocs\ de manera que el sistema quede c:\xampp\htdocs\portafoox-lite
+2.- Instalar la base de datos contenida en el archivo c:\xampp\htdocs\portafoox-lite\schema.sql, puede ser desde PHPMyAdmin o desde la terminal
+2.1 Desde la terminal
+cd \xampp\mysql\bin
+mysql -uroot
+source \xampp\htdocs\portafoox-lite\schema.sql
+/* tambien puedes copiar el contenido del archivo schema.sql y pegarlo en la terminal */
+3.- Modificar el archivo de conexion a la base de datos en caso de ser necesario c:\xampp\htdocs\portafoox-lite\core\controller\Database.php
+4.- Acceder al sistema desde el navedador usando la direccion http://localhost/portafoox-lite/
+- Datos de acceso -
+Usuario: admin
+Password: admin

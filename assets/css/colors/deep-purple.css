@@ -1,0 +1,165 @@
+/*You can add your won color also */
+a {
+  color: #673AB7;
+}
+
+a:hover {
+  color: #4527A0;
+}
+
+.section-titile-bg {
+  color: #673AB7;
+}
+
+.mea-section-quote blockquote {
+  border-left-color: #673AB7;
+}
+
+.btn-common {
+  background: #673AB7;
+}
+
+.btn-common:hover, .btn-common:focus {
+  background: #4527A0 !important;
+}
+
+.btn-round {
+  background: #673AB7 !important;
+}
+
+.btn-round:hover {
+  background: #4527A0 !important;
+}
+
+/* ScrollToTop */
+a.back-to-top i {
+  background-color: #673AB7;
+}
+
+#main-slide .carousel-control i {
+  background: #673AB7;
+}
+
+.slicknav_btn{
+  background: #673AB7;
+  border-color: #673AB7;
+}
+.slicknav_menu .slicknav_btn:hover .slicknav_icon-bar{
+  background: #673AB7;
+}
+.slicknav_nav li > ul > li > a:hover, .slicknav_nav li > ul > li > a .active{
+  border-left-color: #673AB7;
+}
+.slicknav_nav .slicknav_item .active{
+  color: #673AB7;
+}
+li.sub-menu .sub-menu-panel a:hover, li.sub-menu .sub-menu-panel a:focus, li.sub-menu .sub-menu-panel a.active {
+  border-left: 3px solid #673AB7;
+}
+
+#nav-main li.active a.nav-link {
+  border-bottom: 3px solid #673AB7 !important;
+  color: #673AB7;
+}
+
+#nav-main li.active a.nav-link:hover {
+  color: rgba(103, 58, 183, 0.7);
+}
+
+.work-counter-widget i {
+  color: #673AB7;
+}
+
+.about-widget i {
+  color: #673AB7;
+}
+
+.about-widget:hover i {
+  background: #673AB7;
+}
+
+.single-blog-post .post-meta a:hover {
+  color: #673AB7;
+}
+
+.contact-widget-section .single-contact-widget i {
+  color: #673AB7;
+}
+
+#contactForm .form-control {
+  color: #673AB7;
+}
+
+.footer-contact-widget ul li a .fa {
+  background: #673AB7;
+}
+
+.portfolio-nav ul.nav li a:hover {
+  color: #673AB7;
+}
+
+.portfolio-nav ul.nav li a.active {
+  border-bottom: 2px solid #673AB7;
+  color: #673AB7;
+}
+
+.single-service-widget i {
+  color: #673AB7;
+}
+
+#testimonial-carousel .owl-pagination .owl-page.active span {
+  background: #673AB7;
+}
+
+.form-submit button.btn-common.disabled {
+  background: rgba(103, 58, 183, 0.7) !important;
+  cursor: not-allowed;
+}
+
+.owl-carousel .owl-controls .owl-page.active span {
+  border: none;
+  background: #673AB7 !important;
+  opacity: 1;
+}
+
+.mea-tab-default ul.nav.nav-tabs li.active a {
+  color: #673AB7;
+  border-bottom: 3px solid #673AB7;
+}
+
+.mea-default-accordion .panel-default .panel-heading a {
+  background-color: #673AB7;
+}
+
+.icon-round, .icon-box {
+  background: #673AB7;
+}
+
+.icon-common {
+  color: #673AB7;
+}
+
+.price span {
+  color: #673AB7;
+}
+
+.pricing-button a.btn-pricing {
+  background-color: #673AB7;
+}
+
+.mea-error-section h1 {
+  color: #673AB7;
+}
+
+.comment-box .form-control, .comment-box textarea {
+  font-weight: 500;
+  color: #673AB7;
+}
+
+.find-widget {
+  padding: 10px 0;
+}
+
+.find-widget i {
+  background: #673AB7;
+}

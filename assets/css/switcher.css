@@ -1,0 +1,83 @@
+#custumize-style {
+    text-align: center;
+    background-color: rgba(0,0,0, 0.8);
+    border-radius: 0 0 3px;
+    left: 0;
+    padding: 12px 0;
+    position: fixed;
+    top: 30%;
+    width: 134px;
+    z-index: 99999999999;
+}
+#custumize-style div {
+	padding: 0 8px;
+	padding-bottom: 5px;
+}
+#custumize-style h3 {
+  color: #fff;
+  font-size: 1.3em;
+  letter-spacing: unset;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+}
+
+#custumize-style .switcher {
+  background-color: rgba(0,0,0, 0.8);
+  border-radius: 0 3px 3px 0;
+  color: #454545;
+  display: block;
+  font-size: 12px;
+  height: 40px;
+  line-height: 40px;
+  position: absolute;
+  right: -40px;
+  text-align: center;
+  top: 0;
+  width: 40px;
+}
+.fa-sliders { margin-top: 5px;}
+.colors-style {
+	list-style: none;
+	margin: 0px;
+	padding: 0;
+	overflow: hidden;
+}
+.colors-style li {
+	float: left;
+	margin: 4px;
+}
+.colors-style li a {
+  border-radius: 50%;
+  cursor: pointer;
+  display: block;
+  height: 45px;
+  width: 45px;
+}
+.icon-switcher i {
+  color: #fff;
+}
+.other-style { margin-top: 10px !important;}
+.red {
+	background: #e53935;
+}
+.pink {
+	background: #E91E63;
+}
+.purple {
+	 background: #9C27B0;
+}
+.deep-purple {
+	 background: #673AB7;
+}
+.indigo {
+   background: #3F51B5;
+}
+.blue {
+   background: #2196F3;
+}
+.yellow {
+   background: #FB8C00;
+}
+.green {
+	 background: #43A047;
+}

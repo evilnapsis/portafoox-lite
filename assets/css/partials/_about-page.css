@@ -1,0 +1,39 @@
+.page-title-section {
+  position: relative;
+  background: url(../images/page-title-bg.jpg);
+}
+
+.page-title-section .title-center {
+  padding-top: 65px;
+}
+
+.work-counter-widget i {
+  position: absolute;
+  font-size: 170px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: -70px;
+  color: #2C7EB6;
+  left: 0;
+  z-index: -11111;
+  opacity: 0.1;
+}
+
+.work-counter-widget .counter {
+  z-index: 999999;
+}
+
+.work-counter-widget .counter span {
+  color: #212121;
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.work-counter-widget .counter p {
+  color: #212121;
+}
+
+.call-to-action-section {
+  background: url(../images/cta-bg.jpg);
+}

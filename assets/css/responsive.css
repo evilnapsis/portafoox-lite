@@ -1,0 +1,183 @@
+/**
+ * desktop first edia query
+ * same breakpoints as bootstrap
+ * sagir.hossain.524@gmail.com
+ */
+/* large desktops or only large desktops */
+/* small desktops */
+/* only small desktops */
+/* tablets */
+@media (max-width: 991px) {
+  .portfolio-item-wrapper {
+    margin-top: 60px;
+  }
+  .page-title-section {
+    padding: 40px 0;
+  }
+  .section-titile-bg {
+    display: none;
+  }
+  .section-title {
+    position: relative;
+    margin-bottom: 50px;
+  }
+}
+
+/* only small tablets */
+/* mobile or only mobile */
+@media (max-width: 767px) {
+  .testomonial-quote {
+    margin-top: 50px;
+  }
+  .affix .site-logo {
+    top: 25px;
+  }
+  .single-blog-post {
+    margin-top: 50px;
+  }
+  .call-to-action-section .col-md-2 {
+    text-align: center;
+  }
+  .section-image {
+    text-align: center;
+  }
+  .portfolio-nav ul.nav li a {
+    text-align: center;
+    margin-right: 0;
+  }
+  .subtitle {
+    font-size: 16px;
+  }
+  .hero-heading {
+    font-size: 18px;
+    line-height: 0px;
+    line-height: 20px;
+    margin-top: 35px;
+    letter-spacing: 0rem;
+  }
+  .rev-heading {
+    font-size: 20px !important;
+  }
+  .navbar-default #nav-main .nav-open .sub-menu-panel {
+    background: #fff !important;
+    box-shadow: none;
+    border: none;
+    padding-left: 30px;
+  }
+  .nav-open .sub-menu-panel {
+    display: block;
+    position: relative;
+  }
+  .navbar-2 #nav-main .nav-open li.active a.nav-link {
+    border-bottom: 3px solid transparent !important;
+  }
+  .navbar-2 {
+    height: 71px;
+  }
+  .nav-open .sub-menu a.sub-menu-item {
+    background: #fff;
+    padding: 8px 30px !important;
+    border-left-color: #fff;
+  }
+  .slider-content .btn-common {
+    font-size: 8px;
+    padding: 3px 9px;
+  }
+  .btn-default{
+    font-size: 8px;
+    padding: 3px 9px;
+  }
+  .affix .nav-open a.nav-link {
+    padding: 0px 48px !important;
+  }
+  .hero-sub-heading {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #main-slide img {
+    height: 280px;
+  }
+  .okayNav__menu-toggle {
+    top: 35px;
+    margin-left: 15px;
+  }
+  .affix .nav-open li.active a.nav-link {
+    border-bottom: none !important;
+  }
+  .affix .nav-open li.active a.nav-link {
+    border-bottom: none !important;
+  }
+  .nav-open li {
+    padding: 10px 0;
+  }
+  .nav-open li a.nav-link {
+    padding: 10px 40px !important;
+    color: #333 !important;
+    border-bottom: 1px solid #ddd !important;
+    margin-bottom: 8px;
+  }
+  ul.nav-open {
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.26);
+  }
+  .section-titile-bg {
+    display: none;
+  }
+  .section-title {
+    font-size: 30px;
+    position: initial;
+    margin-bottom: 30px;
+  }
+  .single-blog-post .post-meta .read-more-icon {
+    bottom: 125px;
+  }
+  .footer-contact-widget ul li a .fa {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  .work-counter-widget {
+    margin: 45px 0;
+  }
+  .work-counter-widget i {
+    font-size: 110px;
+    top: -35px;
+  }
+  .work-counter-widget .counter span {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  .work-counter-widget .counter p {
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .work-counter-section {
+    padding: 0;
+  }
+  .page-title-section {
+    padding: 10px 0;
+  }
+  .page-title {
+    font-size: 32px;
+    margin-top: 8px;
+  }
+  .page-tagline {
+    font-size: 16px;
+  }
+  .call-to-action-section h1 {
+    font-size: 21px;
+  }
+  .call-to-action-section h3 {
+    font-size: 16px;
+  }
+  .nav-tabs {
+    background: none;
+  }
+  .nav-tabs li a {
+    color: #333 !important;
+  }
+  .nav-tabs li a:hover, .nav-tabs li a:focus, .nav-tabs li a:active {
+    color: #333 !important;
+    opacity: 0.6;
+  }
+}

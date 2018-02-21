@@ -1,0 +1,48 @@
+.icon-table .single-pricing-table {
+  padding: 20px;
+}
+
+.icon-table .single-pricing-table .pricing-table-heading h2 {
+  color: #3d6370;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0.1rem;
+  margin-top: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.icon-table .single-pricing-table .pricing-table-heading h2:after {
+  border: 1px dashed #eee;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 100%;
+  z-index: -11111;
+}
+
+.icon-table .single-pricing-table .price span {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.icon-table .single-pricing-table .pricing-item {
+  padding: 20px 0;
+}
+
+.icon-table .single-pricing-table .pricing-item ul {
+  padding-left: 0;
+}
+
+.icon-table .single-pricing-table .pricing-item ul li {
+  list-style: none;
+}
+
+.icon-table .single-pricing-table .pricing-item ul li p strong {
+  color: #325D6A;
+}
+
+.icon-table .single-pricing-table .pricing-button {
+  padding: 20px 0;
+}
