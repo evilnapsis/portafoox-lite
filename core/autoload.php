@@ -3,7 +3,7 @@
 include "controller/Core.php";
 include "controller/View.php";
 //include "controller/Module.php"; // Renamed to Layout
-include "controller/Database.php";
+include "admin/core/controller/Database.php";
 include "controller/Executor.php";
 
 // 10 octubre 2014

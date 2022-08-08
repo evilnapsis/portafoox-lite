@@ -3,7 +3,7 @@ class StatusData {
 	public static $tablename = "status";
 
 
-	public function StatusData(){
+	public function __construct(){
 		$this->title = "";
 		$this->content = "";
 		$this->image = "";

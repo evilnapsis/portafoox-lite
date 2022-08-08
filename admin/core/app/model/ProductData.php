@@ -3,7 +3,7 @@ class ProductData {
 	public static $tablename = "product";
 
 
-	public function ProductData(){
+	public function __construct(){
 		$this->title = "";
 		$this->content = "";
 		$this->image = "";
