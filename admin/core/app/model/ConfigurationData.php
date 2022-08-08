@@ -33,7 +33,7 @@ class ConfigurationData {
 		Executor::doit($sql);
 	}
 
-	public function updateValFromName($name,$val){
+	public static function updateValFromName($name,$val){
 		$sql = "update ".self::$tablename." set val=\"$val\" where name=\"$name\"";		
 		Executor::doit($sql);
 	}

@@ -124,5 +124,5 @@ insert into configuration(name,label,kind,val) value ("fb_url","Facebook URL",1,
 insert into configuration(name,label,kind,val) value ("tw_url","Twitter URL",1,"https://twitter.com/evilnapsis");
 insert into configuration(name,label,kind,val) value ("yt_url","Youtube URL",1,"https://youtube.com/evilnapsis");
 insert into configuration(name,label,kind,val) value ("gh_url","Github URL",1,"https://github.com/evilnapsis");
-insert into configuration(name,label,kind,val) value ("copyright","Copiright Footer",1,"Evilnapsis &copy; 2018 ");
+insert into configuration(name,label,kind,val) value ("copyright","Copiright Footer",1,"Evilnapsis &copy; 2022 ");
 

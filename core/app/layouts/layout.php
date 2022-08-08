@@ -227,7 +227,7 @@ $copyright = ConfigurationData::getByPreffix("copyright")->val;
                     <div class="row">
                         <!-- Copuyright -->
                         <div class="col-md-6">
-                            <p><?php echo $copyright; ?></p>
+                            <p><?php echo $copyright; ?></p>a
                         </div>
                         <!-- Footer Links -->
                         <!--

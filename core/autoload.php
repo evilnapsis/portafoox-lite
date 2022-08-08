@@ -2,29 +2,23 @@
 
 include "controller/Core.php";
 include "controller/View.php";
-include "controller/Module.php";
-include "admin/core/controller/Database.php";
-include "admin/core/controller/Viewer.php";
-include "admin/core/controller/IpLogger.php";
+//include "controller/Module.php"; // Renamed to Layout
+include "controller/Database.php";
 include "controller/Executor.php";
-//# include "controller/Session.php"; [remplazada]
-
 
 // 10 octubre 2014
+include "controller/Lb.php";
 include "controller/Model.php";
 include "controller/Bootload.php";
 include "controller/Action.php";
 
-// 13 octubre 2014
-include "controller/Request.php";
+include "controller/class.upload.php";
 
-
-// 14 octubre 2014
-include "controller/Get.php";
-include "controller/Post.php";
-include "controller/Cookie.php";
-include "controller/Session.php";
-include "controller/Lb.php";
-include "admin/core/controller/mercadopago.php";
+// 6 Agosto 2022
+include "controller/Extra.php";
+include "controller/Layout.php";
+// 8 Agosto 2022
+include "controller/FormTool.php";
+include "controller/TableTool.php";
 
 ?>
